@@ -1,0 +1,20 @@
+.ca {
+  background-color: #efefef;
+}
+.text{
+  position:relative;
+  top: 150px;
+  left: 530px;
+}
+.kaik{
+  position:relative;
+  top: 200px;
+  left: 850px;
+}
+.PE{
+  position: relative;
+  top:50px;
+  left:700px;
+  font-family: Arial;
+  color: white;
+}
